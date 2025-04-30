@@ -157,7 +157,7 @@ const config = {
     "db": {
       "url": {
         "fromEnvVar": "DATABASE_URL",
-        "value": "postgresql://essam:essam123@localhost:5499/nestdb?schema=public"
+        "value": "postgresql://postgres:IDdiDqAafnGJfcuTrrhrPqNZfXSzKPoG@turntable.proxy.rlwy.net:34934/railway"
       }
     }
   },
